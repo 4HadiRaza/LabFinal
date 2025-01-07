@@ -10,7 +10,6 @@ The Shopping Assistant Application is a Java-based software designed to suggest 
 - Modular and extensible design with clear class responsibilities.
 
 ## Class Diagram
-![Class Diagram](path/to/class-diagram.png)
 
 The Class Diagram represents the structure of the application, showcasing:
 - **Item**: Represents an item with attributes like name, category, price, and rating.
@@ -36,7 +35,6 @@ The application follows a layered architecture with clear separation of concerns
 - Includes user input handling and output display.
 
 ## State Diagram
-![State Diagram](path/to/state-diagram.png)
 
 The State Diagram represents the lifecycle of the application:
 - **Idle**: The system awaits user interaction.
