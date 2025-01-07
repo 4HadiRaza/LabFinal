@@ -87,5 +87,5 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 For questions or suggestions, feel free to reach out:
 - **Email**: ksyedhadirazaa@gmail.com
-- **GitHub**: [[your-username](https://github.com/your-username)](https://github.com/4HadiRaza)
+- **GitHub**: [[4HadiRaza](https://github.com/your-username)](https://github.com/4HadiRaza)
 
